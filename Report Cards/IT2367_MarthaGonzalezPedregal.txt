@@ -1,0 +1,14 @@
+Name of the student : Martha Gonzalez Pedregal 
+Class Roll of the student : 67 
+Stream of the student : IT 
+Your Student ID is : IT2367
+
+Marks obtained in Math is : 80 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 86 
+Marks obtained in English is : 100 
+
+You have got 543 in total with 108%
+Outstanding Performance... You have passed the exam with grade A.

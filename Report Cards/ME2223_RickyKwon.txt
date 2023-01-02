@@ -1,0 +1,14 @@
+Name of the student : Ricky Kwon 
+Class Roll of the student : 23 
+Stream of the student : ME 
+Your Student ID is : ME2223
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 100 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 100 
+
+You have got 585 in total with 117%
+Outstanding Performance... You have passed the exam with grade A.

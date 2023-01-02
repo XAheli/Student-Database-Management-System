@@ -1,0 +1,14 @@
+Name of the student : Shuvam Banerji 
+Class Roll of the student : 69 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI2269
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 56 
+Marks obtained in English is : 100 
+
+You have got 511 in total with 85%
+Excellent Performance... You have passed the exam with grade B.

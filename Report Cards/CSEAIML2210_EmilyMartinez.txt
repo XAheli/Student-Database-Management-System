@@ -1,0 +1,14 @@
+Name of the student : Emily Martinez 
+Class Roll of the student : 10 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML2210
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 28 
+Marks obtained in Chemistry is : 99 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 100 
+
+You have got 503 in total with 83%
+Excellent Performance... You have passed the exam with grade B.

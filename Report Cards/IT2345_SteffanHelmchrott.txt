@@ -1,0 +1,14 @@
+Name of the student : Steffan Helmchrott 
+Class Roll of the student : 45 
+Stream of the student : IT 
+Your Student ID is : IT2345
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 45 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 100 
+
+You have got 502 in total with 100%
+Excellent Performance... You have passed the exam with grade B.

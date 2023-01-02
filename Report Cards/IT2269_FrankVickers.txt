@@ -1,0 +1,14 @@
+Name of the student : Frank Vickers 
+Class Roll of the student : 69 
+Stream of the student : IT 
+Your Student ID is : IT2269
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 80 
+Marks obtained in Chemistry is : 80 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 100 
+
+You have got 559 in total with 111%
+Outstanding Performance... You have passed the exam with grade A.

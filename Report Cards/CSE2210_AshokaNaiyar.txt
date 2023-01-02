@@ -1,0 +1,14 @@
+Name of the student : Ashoka Naiyar 
+Class Roll of the student : 10 
+Stream of the student : CSE 
+Your Student ID is : CSE2210
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 80 
+Marks obtained in Chemistry is : 79 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 100 
+
+You have got 556 in total with 92%
+Outstanding Performance... You have passed the exam with grade A.
