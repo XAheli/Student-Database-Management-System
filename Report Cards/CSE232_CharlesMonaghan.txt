@@ -1,1 +1,14 @@
+Name of the student : Charles Monaghan 
+Class Roll of the student : 2 
+Stream of the student : CSE 
+Your Student ID is : CSE232
 
+Marks obtained in Math is : 88 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 99 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 100 
+
+You have got 564 in total with 94%
+Outstanding Performance... You have passed the exam with grade A.
